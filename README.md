@@ -117,3 +117,6 @@ This supported equity-focused analysis and targeted interventions.
 - Outcome Measurement
 - Participatory Monitoring & Evaluation
 - Evidence-Based Decision-Making
+
+<img width="637" height="410" alt="Logic_Model" src="https://github.com/user-attachments/assets/38cbcd95-0e5f-4024-905a-ada6940d12c6" />
+
